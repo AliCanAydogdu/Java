@@ -1,19 +1,11 @@
-//*********************************************************************
 // IdealWeight.java
-//
-// Computes the ideal weight for both males and females. For males,
-// the ideal weight is 106 pounds plus 6 pounds for every inch over
-// 5 feet and for females it is 100 pounds plus 5 pounds for every 
-// inch over 5 feet.
-//*********************************************************************
+
 
 import java.util.Scanner;
 
 public class IdealWeight
 {
-    //---------------------------------------------------------
-    // Read in a user's height and compute the ideal weight.
-    //---------------------------------------------------------
+
     public static void main (String[] args)
     {
 	final int INCHES_PER_FT = 12;
