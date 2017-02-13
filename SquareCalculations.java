@@ -1,17 +1,10 @@
-//********************************************************************
-//  SquareCalculations.java       Author: Lewis/Loftus
-//
-//  Solution to Programming Project 2.12
-//********************************************************************
+// SquareCalculations.java       
+
 
 import java.util.Scanner;
 
 public class SquareCalculations
 {
-   //-----------------------------------------------------------------
-   //  Computes a square's perimeter and area given the length of
-   //  one side.
-   //-----------------------------------------------------------------
    public static void main (String[] args)
    {
       int side, perimeter, area;
