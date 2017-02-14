@@ -1,17 +1,11 @@
-//********************************************************************
 //  MoneyConversion.java       Author: Lewis/Loftus
-//
-//  Solution to Programming Project 2.11
-//********************************************************************
+
 
 import java.util.Scanner;
 
 public class MoneyConversion
 {
-   //-----------------------------------------------------------------
-   //  Reads a monetary amount and computes the equivalent in bills
-   //  and coins.
-   //-----------------------------------------------------------------
+ 
    public static void main (String[] args)
    {
       double total;
