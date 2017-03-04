@@ -1,17 +1,12 @@
-//********************************************************************
-//  OlympicRings.java       Author: Lewis/Loftus
-//
-//  Solution to Programming Project 2.18
-//********************************************************************
+
+//  OlympicRings.java  
+
 
 import javax.swing.JApplet;
 import java.awt.*;
 
 public class OlympicRings extends JApplet
 {
-   //-----------------------------------------------------------------
-   //  Draws the olympic logo.
-   //-----------------------------------------------------------------
    public void paint (Graphics page)
    {
       final int DIAMETER = 50;
