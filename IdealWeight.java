@@ -1,6 +1,3 @@
-// IdealWeight.java
-
-
 import java.util.Scanner;
 
 public class IdealWeight
