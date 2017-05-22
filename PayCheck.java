@@ -3,10 +3,9 @@ import javax.swing.JOptionPane;
 
 class PayCheck
 {
-   //-----------------------------------------------------------------
    //  Finds and displays the gross pay for an hourly worker
    //  Uses multiple dialog boxes for user interaction.
-   //-----------------------------------------------------------------
+
    public static void main (String[] args)
    {
        String hoursStr, rateStr, result;
