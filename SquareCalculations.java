@@ -1,5 +1,3 @@
-// SquareCalculations.java       
-
 
 import java.util.Scanner;
 
