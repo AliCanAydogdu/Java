@@ -1,7 +1,4 @@
 
-//  OlympicRings.java  
-
-
 import javax.swing.JApplet;
 import java.awt.*;
 
