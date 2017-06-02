@@ -1,5 +1,3 @@
-//  MoneyConversion.java       Author: Lewis/Loftus
-
 
 import java.util.Scanner;
 
