@@ -14,7 +14,6 @@ public class Guess
 	Random generator = new Random();
 	Scanner scan = new Scanner (System.in);
 
-	//randomly generate the  number to guess
 	numToGuess = generator.nextInt(10) + 1;
 
 	//print message asking user to enter a guess
