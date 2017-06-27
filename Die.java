@@ -2,7 +2,7 @@ public class Die
 {
    private final int MAX = 6;
 
-   private int faceValue;  // current value showing on the die
+   private int faceValue; 
 
    //  Constructor: sets the initial face value.
 
