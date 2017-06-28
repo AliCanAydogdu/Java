@@ -13,8 +13,6 @@ public class Coin
       flip();
    }
 
-   //  Flips the coin by randomly choosing a face value.
-
    public void flip ()
    {
       face = (int) (Math.random() * 2);
