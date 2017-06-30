@@ -15,8 +15,6 @@ public class Box
       full = false;
    }
 
-   //  Accessors.
-
    public int getHeight ()
    {
 	   return height;
