@@ -4,9 +4,6 @@ public class Box
 {
    private int height, width, depth;
    private boolean full;
-
-//Sets up this Box object with the specified data.
-
    public Box (int heightInit, int widthInit, int depthInit)
    {
       height = heightInit;
