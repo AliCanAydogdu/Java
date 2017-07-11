@@ -32,8 +32,6 @@ public class Box
 	   return full;
    }
 
-   //  Mutators.
-
    public void setHeight (int heightUpdate)
    {
       height = heightUpdate;
@@ -53,8 +51,6 @@ public class Box
    {
       full = fullUpdate;
    }
-
-   //  Returns a string representation of this box.
 
    public String toString ()
    {
