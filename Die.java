@@ -4,8 +4,6 @@ public class Die
 
    private int faceValue; 
 
-   //  Constructor: sets the initial face value.
-
    public Die()
    {
       faceValue = 1;
