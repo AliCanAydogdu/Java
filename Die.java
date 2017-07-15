@@ -8,19 +8,12 @@ public class Die
    {
       faceValue = 1;
    }
-
-
-   //  Rolls the die and returns the result.
-
    public int roll()
    {
       faceValue = (int) (Math.random() * MAX) + 1;
 
       return faceValue;
    }
-
-
-   //  Face value mutator.
 
    public void setFaceValue (int value)
    {
