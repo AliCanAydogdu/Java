@@ -20,15 +20,10 @@ public class Die
       faceValue = value;
    }
 
-
-
    public int getFaceValue()
    {
       return faceValue;
    }
-
-
-   //  Returns a string representation of this die.
    
    public String toString()
    {
