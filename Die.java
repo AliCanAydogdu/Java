@@ -21,7 +21,6 @@ public class Die
    }
 
 
-   //  Face value accessor.
 
    public int getFaceValue()
    {
