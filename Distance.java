@@ -4,7 +4,6 @@ public class Distance
 {
     public static void main (String[] args)
     {
-	// coordinates of two points
 	double x1, y1, x2, y2; 
 	// distance between the points
 	double distance;       
