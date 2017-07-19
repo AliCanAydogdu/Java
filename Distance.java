@@ -5,7 +5,6 @@ public class Distance
     public static void main (String[] args)
     {
 	double x1, y1, x2, y2; 
-	// distance between the points
 	double distance;       
 
 	Scanner scan = new Scanner (System.in);
