@@ -8,8 +8,6 @@ public class Distance
 	double distance;       
 
 	Scanner scan = new Scanner (System.in);
-
-	// Read in the two points
 	System.out.print ("Enter the coordinates of the first point " +
                "(put a space between them): ");
 	    
