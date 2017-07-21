@@ -19,7 +19,6 @@ public class Distance
 	x2 = scan.nextDouble();
 	y2 = scan.nextDouble();
 
-	// Compute the distance
 	distance = Math.sqrt(Math.pow(x1 - x2,2) + Math.pow(y1 - y2,2));
 
 	// Print out the answer
