@@ -21,7 +21,6 @@ public class Distance
 
 	distance = Math.sqrt(Math.pow(x1 - x2,2) + Math.pow(y1 - y2,2));
 
-	// Print out the answer
 	System.out.println ("The distance between (" + x1 + "," + y1 +
 			    ") and (" + x2 + "," + y2 + ") is " + distance + ".");
 
