@@ -16,7 +16,6 @@ public class Guess
 
 	numToGuess = generator.nextInt(10) + 1;
 
-	//print message asking user to enter a guess
 	System.out.println("I'm thinking of a number!!");
 	System.out.print("Enter your guess: ");
 
