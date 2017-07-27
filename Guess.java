@@ -5,7 +5,7 @@ public class Guess
 {
     public static void main(String[] args)
     {
-        int numToGuess;       //Number the user tries to guess
+        int numToGuess;       
         int guess;            //The user's guess
 	int numGuesses;       //Number of guesses
 	int tooHigh;          //Number of too high guesses
