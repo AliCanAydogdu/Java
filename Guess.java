@@ -7,7 +7,7 @@ public class Guess
     {
         int numToGuess;       
         int guess;            
-	int numGuesses;       //Number of guesses
+	int numGuesses;       
 	int tooHigh;          //Number of too high guesses
 	int tooLow;           //Number of too low guesses
 
