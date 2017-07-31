@@ -8,7 +8,7 @@ public class Guess
         int numToGuess;       
         int guess;            
 	int numGuesses;       
-	int tooHigh;          //Number of too high guesses
+	int tooHigh;          
 	int tooLow;           //Number of too low guesses
 
 	Random generator = new Random();
