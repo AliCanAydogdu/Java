@@ -9,7 +9,7 @@ public class Guess
         int guess;            
 	int numGuesses;       
 	int tooHigh;          
-	int tooLow;           //Number of too low guesses
+	int tooLow;           
 
 	Random generator = new Random();
 	Scanner scan = new Scanner (System.in);
