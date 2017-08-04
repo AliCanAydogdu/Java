@@ -19,7 +19,6 @@ public class Guess
 	System.out.println("I'm thinking of a number!!");
 	System.out.print("Enter your guess: ");
 
-	//read in guess
 	guess = scan.nextInt();
 
 	numGuesses = 1;
