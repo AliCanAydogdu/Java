@@ -25,7 +25,7 @@ public class Guess
 	tooHigh = 0;
 	tooLow = 0;
 
-	while (guess != numToGuess  )  //keep going as long as the guess is wrong
+	while (guess != numToGuess  )  
         {
 	    numGuesses++;
 	    if (guess > numToGuess)
