@@ -3,8 +3,6 @@ import javax.swing.JOptionPane;
 
 class PayCheck
 {
-   //  Uses multiple dialog boxes for user interaction.
-
    public static void main (String[] args)
    {
        String hoursStr, rateStr, result;
