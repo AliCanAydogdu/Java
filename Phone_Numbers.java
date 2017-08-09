@@ -11,7 +11,6 @@ public class PhoneNumbers
 
       Random rand = new Random();
 
-      //  The first three digits are 0-7.
       result += rand.nextInt(8);
       result += rand.nextInt(8);
       result += rand.nextInt(8);
