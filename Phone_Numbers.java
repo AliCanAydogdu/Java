@@ -17,7 +17,6 @@ public class PhoneNumbers
 
       result += "-";
 
-      //  The next set of digits cannot be greater than 742.
       result += rand.nextInt(643) + 100;
 
       result += "-";
