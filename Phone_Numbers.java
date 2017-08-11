@@ -21,7 +21,6 @@ public class PhoneNumbers
 
       result += "-";
 
-      //  The last four digits are unrestricted.
       result += rand.nextInt(10);
       result += rand.nextInt(10);
       result += rand.nextInt(10);
