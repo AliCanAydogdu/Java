@@ -4,7 +4,6 @@ import java.awt.*;
 public class PieChart extends JApplet
 {
    
-   //  Draws the pie chart with equal sections.
    public void paint (Graphics page)
    {
       setBackground (Color.lightGray);
