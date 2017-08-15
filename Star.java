@@ -7,9 +7,6 @@ public class Star
 {
    private int points, size, x, y;
 
-
-   //  Sets up this star using the specified information.
-
    public Star (int numPoints, int radius, int xPoint, int yPoint)
    {
       points = numPoints;
