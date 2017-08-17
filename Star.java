@@ -14,8 +14,6 @@ public class Star
       x = xPoint;
       y = yPoint;
    }
-
-   //  Draws the star.
    
    public void draw (Graphics page)
    {
