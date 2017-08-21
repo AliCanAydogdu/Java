@@ -3,11 +3,7 @@
 public class Flight
 {
    private String airline, origin, destination;
-   private int flightNumber;
-
-   
-   //  Sets up this Flight object with the specified data.
-	
+   private int flightNumber;f	
    public Flight (String airlineInit, String originInit,
                   String destinationInit, int flightNumberInit)
    {
