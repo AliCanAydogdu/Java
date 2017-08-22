@@ -12,10 +12,6 @@ public class Flight
       destination = destinationInit;
       flightNumber = flightNumberInit;
    }
-
-
-   //  Accessors.
-
    public String getAirline ()
    {
 	   return airline;
