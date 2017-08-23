@@ -32,9 +32,6 @@ public class Flight
 	   return flightNumber;
    }
 
-
-   //  Mutators.
-
    public void setAirline (String airlineUpdate)
    {
 	   airline = airlineUpdate;
