@@ -52,10 +52,7 @@ public class Flight
 	   flightNumber = flightNumberUpdate;
    }
 
-   
-   //  Returns a string representation of this flight.
-
-   public String toString ()
+      public String toString ()
    {
       return airline + " " + flightNumber + " --  From: " + origin +
              ", To: " + destination;
