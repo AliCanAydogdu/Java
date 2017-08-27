@@ -5,7 +5,6 @@ import javax.swing.*;
 
 public class NestedPanels
 {
-   //  Presents two colored panels nested within a third.
    public static void main (String[] args)
    {
       JFrame frame = new JFrame ("Nested Panels");
