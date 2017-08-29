@@ -9,8 +9,6 @@ public class NestedPanels
    {
       JFrame frame = new JFrame ("Nested Panels");
       frame.setDefaultCloseOperation (JFrame.EXIT_ON_CLOSE);
-
-      // Set up first subpanel
       JPanel subPanel1 = new JPanel();
       subPanel1.setPreferredSize (new Dimension(150, 100));
       subPanel1.setBackground (Color.green);
