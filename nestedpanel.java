@@ -19,8 +19,6 @@ public class NestedPanels
       subPanel2.setBackground (Color.red);
       JLabel label2 = new JLabel ("Two");
       subPanel2.add (label2);
-
-      // Set up primary panel
       JPanel primary = new JPanel();
       primary.setBackground (Color.blue);
       primary.add (subPanel1);
